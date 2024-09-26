@@ -1,6 +1,6 @@
 # Mean Reversion Attacker Tutorial
 
-This tutorial demonstrates how to create an "attacker" that exploits deviations from the martingale property in a univariate numerical time series. By identifying when the expected future value of a series diverges from its current value, the attacker aims to make profitable predictions with minimal trading frequency.
+The [mean_reversion_attacker](https://github.com/microprediction/endersnotebooks/blob/main/mean_reversion_attacker.ipynb) tutorial notebook demonstrates how to create an "attacker" that exploits deviations from the martingale property in a univariate numerical time series. By identifying when the expected future value of a series diverges from its current value, the attacker aims to make profitable predictions with minimal trading frequency. Whether this particular attacker does that is up to you to decide. You are invited to create an entirely different one. 
 
 ## Introduction
 
