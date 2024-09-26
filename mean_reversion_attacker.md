@@ -77,6 +77,9 @@ To address this, consider the following:
 
 - **Regularization**: Apply regularization methods to prevent overfitting and improve generalization to new data.
 
+- **Regime detection**: The strategy may work better at some times than others. 
+
+
 ## Conclusion
 
 Building efficient online algorithms for detecting deviations from the martingale property involves a balance between simplicity and adaptability. By maintaining minimal state and updating incrementally, the attacker can process streaming data in real-time with low computational overhead. While the initial results highlight the challenges of generalizing to new data, they also open avenues for enhancing the algorithm through feature engineering, adaptive methods, and leveraging advanced online learning libraries.
