@@ -27,7 +27,7 @@ To serve the purpose of detecting martingale deviations efficiently, the algorit
 
 - **Incremental Statistics**: Utilize online algorithms that update statistics with each new data point without storing the entire history. The EWMA is a prime example, as it can be updated using the formula:
   
-$$\text{running\_avg} \leftarrow (1 - a) \times \text{running\_avg} + a \times x_t$$
+$$ \text{running\ avg} \leftarrow (1 - a) \times \text{running\ avg} + a \times x_t$$
 
 - **Adaptive Thresholds**: Implement thresholds that adapt based on the volatility of the data. This can be achieved by maintaining an online estimate of the standard deviation and adjusting the threshold proportionally.
 
