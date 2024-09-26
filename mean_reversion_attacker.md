@@ -4,7 +4,7 @@ The [mean_reversion_attacker](https://github.com/microprediction/endersnotebooks
 
 ## Introduction
 
-In financial time series analysis, a martingale represents a model where the best prediction for the next value is simply the current value, expressed as $E[x_{t+1}] = x_t$. However, real-world data often deviate from this property due to trends, cycles, or mean-reverting behaviors. Detecting these deviations presents opportunities for building trading strategies that can capitalize on predictable patterns.
+In financial time series analysis, a martingale is a time series where the mean of all future values is simply the current value, expressed as $E[x_{t+1}] = x_t$. However, real-world data often deviate from this property due to trends, cycles, or mean-reverting behaviors. Detecting these deviations presents opportunities for building trading strategies that can capitalize on predictable patterns.
 
 The goal of this tutorial is to build an efficient online (incremental) algorithm that can detect such deviations in real-time. By processing data as it streams in and updating internal states incrementally, the attacker can make timely predictions without the need for extensive computational resources.
 
