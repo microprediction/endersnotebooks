@@ -33,8 +33,6 @@ $$ \text{running\ avg} \leftarrow (1 - a) \times \text{running\ avg} + a \times 
 
 - **Feature Engineering**: Incorporate additional features such as momentum indicators, rolling variances, or online regression coefficients. These features can be updated incrementally and may improve prediction accuracy.
 
-- **Parallel Processing**: If handling multiple data streams, design the algorithm to process streams in parallel, leveraging multi-core processors or distributed computing frameworks.
-
 - **Resource Management**: Optimize memory usage by avoiding the storage of historical data points. Use data structures that support efficient incremental updates.
 
 - **Algorithm Selection**: Choose algorithms that are known for their efficiency in online settings. For example, online versions of algorithms like stochastic gradient descent can be more suitable than batch counterparts.
