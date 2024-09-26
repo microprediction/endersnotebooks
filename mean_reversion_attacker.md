@@ -77,7 +77,7 @@ To address this, consider the following:
 
 - **Regularization**: Apply regularization methods to prevent overfitting and improve generalization to new data.
 
-- **Regime detection**: The strategy may work better at some times than others. 
+- **Regime detection**: The strategy may work better at some times than others. You could even attack your own attacker's profit and loss. 
 
 
 ## Conclusion
