@@ -19,7 +19,7 @@ The attacker illustrated employs a mean reversion strategy based on an exponenti
   - If the current value is lower than the running average by the threshold, predict an increase (+1).
   - Otherwise, make no prediction (0).
 
-This approach assumes that extreme deviations from the mean are likely to revert, a common phenomenon in financial markets known as mean reversion.
+This approach assumes that extreme deviations from the mean are likely to revert.
 
 ## Building Efficient Online Algorithms
 
