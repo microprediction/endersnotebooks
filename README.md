@@ -3,7 +3,7 @@ Enders Game colab notebook examples.
 
 ### Contest 
 
-This repo does *not* contain the contest entry notebooks, only completely separate standalone ones. So if you want to play the game, you might win some cash or even have ongoing upside. 
+This repo does *not* contain the contest entry notebooks, only completely separate standalone ones. So if you want to play the *real* game, and maybe win some cash or even have ongoing upside, you should look at these intead ...
 
 | Contest notebook | Description |
 | --- | --- |
