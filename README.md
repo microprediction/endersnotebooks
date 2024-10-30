@@ -1,9 +1,10 @@
 # endersnotebooks
 Enders Game colab notebook examples. 
 
-### DEPRECATION NOTICE: THESE ARE NOT THE DROIDS YOU ARE LOOKING FOR  
-
-This repo does *not* contain the contest entry notebooks, only completely separate standalone ones. So if you want to play the *real* game, and maybe win some cash or even have ongoing upside, you should look at these instead ...
+> [!IMPORTANT] 
+> **DEPRECATION NOTICE: THESE ARE NOT THE DROIDS YOU ARE LOOKING FOR**
+> 
+> This repo does *not* contain the contest entry notebooks, only completely separate standalone ones. So if you want to play the *real* game, and maybe win some cash or even have ongoing upside, you should look at these instead ...
 
 ### Contest notebooks 
 
